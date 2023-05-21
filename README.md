@@ -25,7 +25,7 @@ Counters Present In This Project
 
 <h4>Circuit Picture</h4>
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Antenna/blob/main/cst.png" >
+  <img src="https://github.com/Gunasaikiran/ALL_IN_ONE_Counter/blob/main/Pictures/schematic.pdf" >
 </p>
 
 <h4>Output Picture</h4>
