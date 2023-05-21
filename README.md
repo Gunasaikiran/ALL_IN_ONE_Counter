@@ -30,7 +30,7 @@ Counters Present In This Project
 
 <h4>Output Picture</h4>
 <p align="center">
-  <img src="[https://github.com/Gunasaikiran/Antenna/blob/main/Fabricated.png](https://github.com/Gunasaikiran/ALL_IN_ONE_Counter/blob/main/Pictures/Circuit%20output.png)" >
+  <img src="https://github.com/Gunasaikiran/ALL_IN_ONE_Counter/blob/main/Pictures/Circuit%20output.png" >
 </p>
 
 Add a Star 🌟 to this 👆 Repository.<br>
